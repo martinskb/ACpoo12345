@@ -1,4 +1,3 @@
-
 //1-
 
 //Agregação
@@ -19,3 +18,4 @@
 
 //4-
 
+// equals, toString, hashCode e getClass
